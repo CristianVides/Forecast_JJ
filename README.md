@@ -1,2 +1,2 @@
 # Forecast_JJ
-Forecast script in R for Jhonson &amp; Jhonson stock market value
+Forecast Rscript for Jhonson &amp; Jhonson stock market value
